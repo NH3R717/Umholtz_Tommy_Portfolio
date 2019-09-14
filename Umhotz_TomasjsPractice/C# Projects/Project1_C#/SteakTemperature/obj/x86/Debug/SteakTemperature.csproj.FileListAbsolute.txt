@@ -1,0 +1,6 @@
+/Users/paulholtz/Documents/FS_Pro/WDII/4.5 SDI Projects/SteakTemperatureC#/SteakTemperature/bin/Debug/SteakTemperature.exe
+/Users/paulholtz/Documents/FS_Pro/WDII/4.5 SDI Projects/SteakTemperatureC#/SteakTemperature/bin/Debug/SteakTemperature.pdb
+/Users/paulholtz/Documents/FS_Pro/WDII/4.5 SDI Projects/SteakTemperatureC#/SteakTemperature/obj/x86/Debug/SteakTemperature.csprojAssemblyReference.cache
+/Users/paulholtz/Documents/FS_Pro/WDII/4.5 SDI Projects/SteakTemperatureC#/SteakTemperature/obj/x86/Debug/SteakTemperature.csproj.CoreCompileInputs.cache
+/Users/paulholtz/Documents/FS_Pro/WDII/4.5 SDI Projects/SteakTemperatureC#/SteakTemperature/obj/x86/Debug/SteakTemperature.exe
+/Users/paulholtz/Documents/FS_Pro/WDII/4.5 SDI Projects/SteakTemperatureC#/SteakTemperature/obj/x86/Debug/SteakTemperature.pdb

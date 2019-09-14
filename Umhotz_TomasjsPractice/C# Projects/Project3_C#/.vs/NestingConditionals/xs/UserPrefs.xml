@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{C41D7D05-F7BD-4D1A-BD3C-8FC0AF6C1AA5}|Default">
+  <MonoDevelop.Ide.ItemProperties.NestingConditionals PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NestingConditionals" expanded="True" selected="True">
+            <Node name="NestingConditionals" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

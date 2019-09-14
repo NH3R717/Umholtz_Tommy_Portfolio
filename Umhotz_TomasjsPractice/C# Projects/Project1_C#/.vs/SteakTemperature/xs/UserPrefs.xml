@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D70B02F5-6802-4D65-9D4F-38CD55F19DC4}|Default">
+  <MonoDevelop.Ide.ItemProperties.SteakTemperature PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SteakTemperature/Program.cs">
+    <Files>
+      <File FileName="SteakTemperature/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

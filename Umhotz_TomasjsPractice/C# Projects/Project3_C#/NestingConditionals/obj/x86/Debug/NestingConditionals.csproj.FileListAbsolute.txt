@@ -1,0 +1,6 @@
+/Users/paulholtz/Documents/FS_Pro/WDII/Wk 2/4.5 SDI Projects/UmholtzTomas_WD2_4dot5/C# Projects/Project3_C#/NestingConditionals/bin/Debug/NestingConditionals.exe
+/Users/paulholtz/Documents/FS_Pro/WDII/Wk 2/4.5 SDI Projects/UmholtzTomas_WD2_4dot5/C# Projects/Project3_C#/NestingConditionals/bin/Debug/NestingConditionals.pdb
+/Users/paulholtz/Documents/FS_Pro/WDII/Wk 2/4.5 SDI Projects/UmholtzTomas_WD2_4dot5/C# Projects/Project3_C#/NestingConditionals/obj/x86/Debug/NestingConditionals.csprojAssemblyReference.cache
+/Users/paulholtz/Documents/FS_Pro/WDII/Wk 2/4.5 SDI Projects/UmholtzTomas_WD2_4dot5/C# Projects/Project3_C#/NestingConditionals/obj/x86/Debug/NestingConditionals.csproj.CoreCompileInputs.cache
+/Users/paulholtz/Documents/FS_Pro/WDII/Wk 2/4.5 SDI Projects/UmholtzTomas_WD2_4dot5/C# Projects/Project3_C#/NestingConditionals/obj/x86/Debug/NestingConditionals.exe
+/Users/paulholtz/Documents/FS_Pro/WDII/Wk 2/4.5 SDI Projects/UmholtzTomas_WD2_4dot5/C# Projects/Project3_C#/NestingConditionals/obj/x86/Debug/NestingConditionals.pdb

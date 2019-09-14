@@ -1,0 +1,5 @@
+/Users/kylerjohnson/Projects/SteakTemperature/SteakTemperature/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/kylerjohnson/Projects/SteakTemperature/SteakTemperature/bin/Debug/SteakTemperature.exe.mdb
+/Users/kylerjohnson/Projects/SteakTemperature/SteakTemperature/bin/Debug/SteakTemperature.exe
+/Users/kylerjohnson/Projects/SteakTemperature/SteakTemperature/obj/x86/Debug/SteakTemperature.exe
+/Users/kylerjohnson/Projects/SteakTemperature/SteakTemperature/obj/x86/Debug/SteakTemperature.exe.mdb

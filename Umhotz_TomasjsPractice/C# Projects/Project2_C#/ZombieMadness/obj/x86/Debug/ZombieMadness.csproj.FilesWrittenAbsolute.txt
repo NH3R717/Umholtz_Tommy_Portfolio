@@ -1,0 +1,5 @@
+/Users/seanbuchholz/Projects/ZombieMadness/ZombieMadness/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/seanbuchholz/Projects/ZombieMadness/ZombieMadness/bin/Debug/ZombieMadness.exe.mdb
+/Users/seanbuchholz/Projects/ZombieMadness/ZombieMadness/bin/Debug/ZombieMadness.exe
+/Users/seanbuchholz/Projects/ZombieMadness/ZombieMadness/obj/x86/Debug/ZombieMadness.exe
+/Users/seanbuchholz/Projects/ZombieMadness/ZombieMadness/obj/x86/Debug/ZombieMadness.exe.mdb

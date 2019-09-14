@@ -1,0 +1,6 @@
+/Users/paulholtz/Documents/FS_Pro/WDII/Wk 2/4.5 SDI Projects/C# Projects/Project4_C#/Expression_Worksheet/bin/Debug/Expression_Worksheet.exe
+/Users/paulholtz/Documents/FS_Pro/WDII/Wk 2/4.5 SDI Projects/C# Projects/Project4_C#/Expression_Worksheet/bin/Debug/Expression_Worksheet.pdb
+/Users/paulholtz/Documents/FS_Pro/WDII/Wk 2/4.5 SDI Projects/C# Projects/Project4_C#/Expression_Worksheet/obj/x86/Debug/Expression_Worksheet.csprojAssemblyReference.cache
+/Users/paulholtz/Documents/FS_Pro/WDII/Wk 2/4.5 SDI Projects/C# Projects/Project4_C#/Expression_Worksheet/obj/x86/Debug/Expression_Worksheet.csproj.CoreCompileInputs.cache
+/Users/paulholtz/Documents/FS_Pro/WDII/Wk 2/4.5 SDI Projects/C# Projects/Project4_C#/Expression_Worksheet/obj/x86/Debug/Expression_Worksheet.exe
+/Users/paulholtz/Documents/FS_Pro/WDII/Wk 2/4.5 SDI Projects/C# Projects/Project4_C#/Expression_Worksheet/obj/x86/Debug/Expression_Worksheet.pdb

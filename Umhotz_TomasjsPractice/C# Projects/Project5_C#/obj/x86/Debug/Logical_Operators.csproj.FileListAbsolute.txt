@@ -1,0 +1,6 @@
+/Users/paulholtz/Documents/FS_Pro/WDII/Wk 2/4.5 SDI Projects/UmholtzTomas_WD2_4dot5/C# Projects/Project5_C#/bin/Debug/Logical_Operators.exe
+/Users/paulholtz/Documents/FS_Pro/WDII/Wk 2/4.5 SDI Projects/UmholtzTomas_WD2_4dot5/C# Projects/Project5_C#/bin/Debug/Logical_Operators.pdb
+/Users/paulholtz/Documents/FS_Pro/WDII/Wk 2/4.5 SDI Projects/UmholtzTomas_WD2_4dot5/C# Projects/Project5_C#/obj/x86/Debug/Logical_Operators.csprojAssemblyReference.cache
+/Users/paulholtz/Documents/FS_Pro/WDII/Wk 2/4.5 SDI Projects/UmholtzTomas_WD2_4dot5/C# Projects/Project5_C#/obj/x86/Debug/Logical_Operators.csproj.CoreCompileInputs.cache
+/Users/paulholtz/Documents/FS_Pro/WDII/Wk 2/4.5 SDI Projects/UmholtzTomas_WD2_4dot5/C# Projects/Project5_C#/obj/x86/Debug/Logical_Operators.exe
+/Users/paulholtz/Documents/FS_Pro/WDII/Wk 2/4.5 SDI Projects/UmholtzTomas_WD2_4dot5/C# Projects/Project5_C#/obj/x86/Debug/Logical_Operators.pdb

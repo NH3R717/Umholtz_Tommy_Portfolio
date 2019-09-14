@@ -1,0 +1,5 @@
+/Users/paulholtz/Projects/Expression_Worksheet/Expression_Worksheet/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/paulholtz/Projects/Expression_Worksheet/Expression_Worksheet/bin/Debug/Expression_Worksheet.exe.mdb
+/Users/paulholtz/Projects/Expression_Worksheet/Expression_Worksheet/bin/Debug/Expression_Worksheet.exe
+/Users/paulholtz/Projects/Expression_Worksheet/Expression_Worksheet/obj/x86/Debug/Expression_Worksheet.exe
+/Users/paulholtz/Projects/Expression_Worksheet/Expression_Worksheet/obj/x86/Debug/Expression_Worksheet.exe.mdb

@@ -1,0 +1,6 @@
+/Users/paulholtz/Documents/FS_Pro/WDII/Wk 2/4.5 SDI Projects/UmholtzTomas_WD2_4dot5/C# Projects/Project6_C#/bin/Debug/ArraryVariables.exe
+/Users/paulholtz/Documents/FS_Pro/WDII/Wk 2/4.5 SDI Projects/UmholtzTomas_WD2_4dot5/C# Projects/Project6_C#/bin/Debug/ArraryVariables.pdb
+/Users/paulholtz/Documents/FS_Pro/WDII/Wk 2/4.5 SDI Projects/UmholtzTomas_WD2_4dot5/C# Projects/Project6_C#/obj/x86/Debug/ArraryVariables.csprojAssemblyReference.cache
+/Users/paulholtz/Documents/FS_Pro/WDII/Wk 2/4.5 SDI Projects/UmholtzTomas_WD2_4dot5/C# Projects/Project6_C#/obj/x86/Debug/ArraryVariables.csproj.CoreCompileInputs.cache
+/Users/paulholtz/Documents/FS_Pro/WDII/Wk 2/4.5 SDI Projects/UmholtzTomas_WD2_4dot5/C# Projects/Project6_C#/obj/x86/Debug/ArraryVariables.exe
+/Users/paulholtz/Documents/FS_Pro/WDII/Wk 2/4.5 SDI Projects/UmholtzTomas_WD2_4dot5/C# Projects/Project6_C#/obj/x86/Debug/ArraryVariables.pdb
