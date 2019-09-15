@@ -55,7 +55,6 @@ actual error because no syntax or runtime exception has occurred
 		
 		//Check search length, must have 3 characters
 		/// add quote – alert("Your search query is too small, try again."); 
-		// //// Good
 		if(query.length < 3){
 			alert("Your search query is too small, try again."); 
 			
@@ -69,7 +68,7 @@ actual error because no syntax or runtime exception has occurred
 	};
 	
 	// Finds search matches
-	/// add { to end of statement – syntax
+	/// add "{" to end of statement – syntax
 	var search = function(query){
 		
 		// SPLIT the user's search query string into an array
@@ -144,6 +143,7 @@ actual error because no syntax or runtime exception has occurred
 			title = results[i].subString(0, titleEnd);
 			
 			// pull the video url after the title
+			///changed "substring" to "subStrings"
 			url = results[i].subString(results[i].indexOf('|')+1, results[i].length);
 			
 			// make the video link - THE NEXT LINE IS CORRECT.
@@ -153,6 +153,7 @@ actual error because no syntax or runtime exception has occurred
 	};
 	
 	// THE LINE DIRECTLY BELOW IS CORRECT
+	///changed "=" to "=="
 	document.forms[0].onsubmit == function(){
 		var query = searchInput.value;
 		validate(query);
